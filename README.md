@@ -2,34 +2,36 @@
 
 ## 1. Forside
 
-**Prosjekttittel:**\
-**Navn:**\
-**Klasse:**\
-**Dato:**
+**SovSmart:**\
+**Arda:**\
+**IMI:**\
+**17.11.2025:**
 
 **Kort beskrivelse av prosjektet:**\
-*Skriv 2--4 setninger om hva applikasjonen gjør og hvilket tema den
-bygger på.*
+Applikasjonen vil hjelpe og assistere med søvn for hvilke som helst målgruppe med problemer. Siden dette er et universell problem tenker jeg at vi burde derimot løse problemet sammen med eget tempo. Applikasjonen utfører kalkulasjoner og koder som vil best passe deltakere.
 
-------------------------------------------------------------------------
+
 
 ## 2. Systembeskrivelse
 
 **Formål med applikasjonen:**\
-*Forklar hva du ønsket å oppnå med prosjektet.*
+Jeg ønsker å løse et helseproblem som er universell for veldig mange folk. Omtrent mere enn en tredje-del av voksne rapporterer at to-tredjedel har søvn forstyrrelse og problemer. Jeg selv har opplevd slike problemer og vet mange ungdommer og voksne føler det samme. 
+
 
 **Brukerflyt:**\
 *Beskriv hvordan brukeren bruker løsningen -- fra startside til lagring
 av data.*
+
+Før testen starter så må deltakeren registrere med Navn og Alder. Så skal applikasjonen tilpasse søvn anbefalingne så godt det kan.
+
 
 **Teknologier brukt:**
 
 -   Python / Flask\
 -   MariaDB\
 -   HTML / CSS / JS\
--   (valgfritt) Docker / Nginx / Gunicorn / Waitress osv.
+-   
 
-------------------------------------------------------------------------
 
 ## 3. Server-, infrastruktur- og nettverksoppsett
 
