@@ -30,14 +30,14 @@ Før testen starter så må deltakeren registrere med Navn og Alder. Så skal ap
 -   Python / Flask\
 -   MariaDB\
 -   HTML / CSS / JS\
--   
+
 
 
 ## 3. Server-, infrastruktur- og nettverksoppsett
 
 ### Servermiljø
 
-*F.eks.: Ubuntu VM, Docker, fysisk server.*
+Ubuntu
 
 ### Nettverksoppsett
 
@@ -66,7 +66,7 @@ Eksempel:
 
 Refleksjon: Hvordan hjalp Kanban arbeidet?
 
-------------------------------------------------------------------------
+Det hjalp meg ha en liten oversikt over planen min for prosjektet var ikke det beste men hadde selvagt hjulpet.
 
 ## 5. Databasebeskrivelse
 
