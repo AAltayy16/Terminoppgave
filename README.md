@@ -112,5 +112,9 @@ Koden bruker parameteriserte spørringer for å hindre SQL-injection og enkel va
 
 Jeg har lært svært mye gjennom dette arbeidet, men ser samtidig at jeg fortsatt trenger mer øvelse for å få bedre forståelse og flyt i koden. Jeg har fått innsikt i hvor viktig en database er for å kunne lagre og håndtere brukerdata på en nettside, noe jeg opplevde som både nyttig og lærerikt. Det som fungerte godt var oppsettet av nettsiden og databasen hver for seg, men det var mer utfordrende å skrive all koden som skulle til for å koble dem sammen på en riktig måte. Jeg testet og eksperimenterte med ulike løsninger for å se hvordan koden reagerte, og prøvde forskjellige tilnærminger for å forstå sammenhengen mellom de ulike delene av programmet. Det mest krevende var å få alle komponentene til å fungere samlet, slik at koden faktisk kjørte som den skulle og data ble sendt, lagret og brukt korrekt. Samlet sett har dette gitt meg verdifull erfaring og en bedre forståelse av hvordan backend, database og nettside samarbeider.
 
+
+Det jeg har fått til er å skape et database for å registrere det brukeren fører inn på i nettsiden min. Jeg får et oversikt i bakgrunnen fra databasen, nettsiden hjelper brukeren med det den ønsker. Jeg har dokumentert ferdig, planlagt ferdig, kodet ferdig. Det eneste problemet jeg opplever er at koden min ikke alltid fungerer som den skal, da tenker jeg at jeg ikke har gjort bra nokk. Men dette mener jeg er en viktig del for de neste prosjektene vi skal fullføre og da vet jeg at jeg ikke skal feile samme som jeg gjorde nå. 
+
 ## 11. Kildeliste
 
+https://www.w3schools.com/python/python_mysql_getstarted.asp
