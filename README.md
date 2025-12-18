@@ -38,10 +38,10 @@ Ubuntu
 
 ### Nettverksoppsett
 
--   Nettverksdiagram
--   IP-adresser\
--   Porter\
--   Brannmurregler
+-   Nettverksdiagram, vi brukte ssh, mariadb, flask osv.
+-   IP-adresser som vi satt inni mariadb, min var 10.200.14.12.
+-   Porter\ CHP 
+-   Brannmurregler som UFW
 
 
 ## 4. Prosjektstyring -- GitHub Projects (Kanban)
