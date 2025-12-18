@@ -62,19 +62,17 @@ Det hjalp meg ha en liten oversikt over planen min for prosjektet var ikke det b
 INT \| Primærnøkkel \| \| customers \| name \| VARCHAR(255) \| Navn \|
 \| customers \| address \| VARCHAR(255) \| Adresse \|
 
-**SQL-eksempel:**
 
-``` sql
-CREATE TABLE customers (
-  id INT AUTO_INCREMENT PRIMARY KEY,
-  name VARCHAR(255),
-  address VARCHAR(255)
-);
-```
+con = get_db()
+        cur = con.cursor()
+        cur.execute(
+            "INSERT INTO sleep_data (user_id, start_time, end_time, hours) VALUES (%s, %s, %s, %s)",
+            (user_id, start_time_str, end_time_str, hours)
+
 
  6. Programstruktur
 
-    projectnavn/
+    SovSmart/
      ├── app.py
      ├── templates/
      ├── sleep.html
