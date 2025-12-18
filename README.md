@@ -19,9 +19,6 @@ Jeg ønsker å løse et helseproblem som er universell for veldig mange folk. Om
 
 
 **Brukerflyt:**\
-*Beskriv hvordan brukeren bruker løsningen -- fra startside til lagring
-av data.*
-
 Før testen starter så må deltakeren registrere med Navn og Alder. Så skal applikasjonen tilpasse søvn anbefalingne så godt det kan.
 
 
